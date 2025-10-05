@@ -45,7 +45,7 @@ There are 8 analog input pins (A0-A7). These pins read an input voltage between 
 ##### **Communication Pins**
 - **RX (D0)**: Receive data for serial communication.
 - **TX (D1)**: Transmit data for serial communication.
-- **SPI (D10, D11, D12, D13)**: Used for SPI communication. 
+- **SPI (D10, D11, D12, D13)**: Used for SPI communication.
 - **I2C (A4 for SDA, A5 for SCL)**: Used for I2C communication.
 - **Reset Pin**: Shorting this pin to GND will reset the microcontroller.
 
